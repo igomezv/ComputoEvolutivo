@@ -2,7 +2,7 @@
 
 Duración: 20 horas, 4 clases.
 
-Diplomado en Inteligancia Artificial Aplicada. DGTIC-UNAM.
+Diplomado en Inteligencia Artificial Aplicada. DGTIC-UNAM.
 
 Instructor: Isidro Gómez Vargas
 
