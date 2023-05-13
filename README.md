@@ -83,7 +83,8 @@ Para empezar:
 
 ### Clase 3
 
-4.3. - Introducción a la librería DEAP
+4.3. Introducción a la librería DEAP
+
 
 5. Algoritmos genéticos multiobjetivo  
 
