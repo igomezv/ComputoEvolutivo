@@ -92,14 +92,6 @@ Para empezar:
 
 - 5.2 Problema de optimización multiobjetivo		 
 
-- 5.3 Optimización multiobjetivo con preferencias apriori 
-
-- 5.4 Optimización multiobjetivo con preferencias a posteriori 
-
- - 5.4.1 Basados en No-Dominancia de Paretto 
-
- - 5.4.2 Basados en dominancia de Paretto	 
-
 ## Clase 4
 
 6. Ejemplos prácticos  
