@@ -90,14 +90,17 @@ Para empezar:
 
  - 5.1 Manejo de restricciones  
 
-- 5.2 Problema de optimización multiobjetivo		 
+- 5.2 Problema de optimización multiobjetivo	
+- Algoritmos multiobjetivos	 
 
 ## Clase 4
 
-6. Ejemplos prácticos  
+6. Ejemplos especiales
 
- - 6.1 Caso agente viajero 
-
- - 6.4 Otros 
-
- - 6.5 Proyecto
+ - Estrategias evolutivas
+ - Nichos
+ - Programación genética
+ - Swarm optimization
+ - ANN
+ - Caso agente viajero 
+ - Proyecto personal
