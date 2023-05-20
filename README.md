@@ -99,8 +99,8 @@ Para empezar:
 
  - Estrategias evolutivas
  - Nichos
+ - ANN
  - Programación genética
  - Swarm optimization
- - ANN
  - Caso agente viajero 
  - Proyecto personal
