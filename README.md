@@ -1,4 +1,4 @@
-# ComputoEvolutivo
+# Computo Evolutivo
 
 Duración: 20 horas, 4 clases.
 
